@@ -9,8 +9,8 @@ header:
   has_nav: true
   menu:
     actions:
-    - label: Sign Up
-      url: "/signup"
+    - label: Case Studies
+      url: "/case-studies"
 footer:
   logo_img: images/logo_alt.png
   tagline: SaaS theme by Stackbit
