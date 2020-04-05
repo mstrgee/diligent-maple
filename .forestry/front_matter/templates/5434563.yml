@@ -1,0 +1,42 @@
+---
+label: '5434563'
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: field_group_list
+  name: sections
+  label: sections
+  fields:
+  - type: text
+    name: type
+    label: type
+  - type: text
+    name: template
+    label: template
+  - type: text
+    name: section_id
+    label: section_id
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
+  - type: file
+    name: image
+    label: image
+  - type: field_group_list
+    name: actions
+    label: actions
+    fields:
+    - type: text
+      name: label
+      label: label
+    - type: text
+      name: url
+      label: url
+- type: text
+  name: layout
+  label: layout
