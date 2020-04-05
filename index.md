@@ -8,7 +8,7 @@ sections:
   content: We are an independent consulting agency focused on solutions.
   image: images/hero.png
   actions:
-  - label: Learn More
+  - label: Join Us
     url: "/features"
 - type: section_features
   template: section_features
