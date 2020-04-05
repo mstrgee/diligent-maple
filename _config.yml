@@ -6,7 +6,7 @@ palette: blue
 header:
   title: Azimuth
   logo_img: "/images/choe-1.png"
-  has_nav: true
+  has_nav: false
   menu:
     actions:
     - label: Case Studies
