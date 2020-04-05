@@ -2,7 +2,7 @@
 title: Stackbit Azimuth Theme
 baseurl: "/"
 permalink: "/:title/"
-palette: purple
+palette: blue
 header:
   title: Azimuth
   logo_img: "/images/choe-1.png"
