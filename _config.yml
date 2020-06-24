@@ -2,7 +2,7 @@
 title: Center for Health Outcomes  and Evaluation
 baseurl: "/"
 permalink: "/:title/"
-palette: blue
+palette: purple
 header:
   title: Azimuth
   logo_img: "/images/logo-1.png"
